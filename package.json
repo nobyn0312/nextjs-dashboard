@@ -7,7 +7,7 @@
 	},
 	"dependencies": {
 		"@heroicons/react": "^2.2.0",
-		"@prisma/client": "^6.6.0",
+		"@prisma/client": "^6.7.0",
 		"@tailwindcss/forms": "^0.5.10",
 		"@vercel/postgres": "^0.8.0",
 		"autoprefixer": "10.4.20",
@@ -25,6 +25,7 @@
 		"@types/bcrypt": "^5.0.2",
 		"@types/node": "22.10.7",
 		"@types/react": "19.0.7",
-		"@types/react-dom": "19.0.3"
+		"@types/react-dom": "19.0.3",
+		"prisma": "^6.7.0"
 	}
 }
