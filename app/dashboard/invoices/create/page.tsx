@@ -15,7 +15,6 @@ export default async function Page() {
   return (
     <>
     <main>
-    <form action={createInvoice}></form>
       <Breadcrumbs
         breadcrumbs={[
           { label: 'Invoices', href: '/dashboard/invoices' },
